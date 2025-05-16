@@ -1,0 +1,9 @@
+Package: com.tzunem.transparent
+Name: transparent
+Version: 1.0
+Architecture: iphoneos-arm
+Description: transparenticons lol
+Author: tzunem
+Maintainer: tzunem
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
